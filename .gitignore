@@ -73,3 +73,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Content/Collections/*
+Content/Developers/*
+Content/SciFiSoldier/*
+Content/SciFiSoldier02/*
+Content/Sword_Animations/*
