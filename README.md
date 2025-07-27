@@ -1,6 +1,17 @@
+<p align="center">
+  <img width="480" height="270" alt="MonsterPunkPreview" src="https://github.com/user-attachments/assets/c866c71f-bbf1-4df8-9343-fbbec19b9c02" />
+</p>
 
-<div align="center">
+## 언리얼 블루프린트으로 구현한 cyberpunk 2077 (오다 전투 모작)
 
-# 언리얼엔진5 블루프린트를 이용한 Cyberpunk2077 모작 (_ Pizza_)
+### 구현 과정
+- [🎥 프로토 구현](https://www.youtube.com/watch?v=iwOnFXU31Yg)
+- [🎥 알파 구현](ing....)
+- [🎥 베타 구현](ing....)
 
-<img width="960" height="540" alt="MonsterPunkPreview" src="https://github.com/user-attachments/assets/c866c71f-bbf1-4df8-9343-fbbec19b9c02" />
+---
+
+### 레퍼런스
+- [🎥 레퍼런스](https://youtu.be/cokKM3-S1bU?si=u0I_CP4fN04a_133)
+
+영상 00:18 ~ 00:51 구간

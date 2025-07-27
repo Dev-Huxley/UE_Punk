@@ -74,5 +74,12 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+Content/Collections/*
+Content/Developers/*
+Content/SciFiSoldier/*
+Content/SciFiSoldier02/*
+Content/Sword_Animations/*
+Content/Developers/*
+Content/Collections/*
 # 플레이어 모델 에셋 용량 커서 따로 배포 (Survival_Character)
 Content/Survival_Character/*
