@@ -1,3 +1,4 @@
 KEY,Value
-SpawnDelay,10
+SpawnDelay,7
 MaxSpawnCount,5
+Phase2BossHPPer,90
