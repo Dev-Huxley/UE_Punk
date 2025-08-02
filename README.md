@@ -5,9 +5,9 @@
 ## 언리얼 블루프린트으로 구현한 cyberpunk 2077 (오다 전투 모작)
 
 ### 구현 과정
-- [🎥 프로토 구현](https://www.youtube.com/watch?v=iwOnFXU31Yg)
+- [🎥 프로토 구현](https://youtu.be/PL6mB2T5OkM)
 - [🎥 알파 구현](https://youtu.be/ODVAJgb1-oE)
-- [🎥 베타 구현](ing....)
+- [🎥 베타 구현]((https://youtu.be/PilWsNy3X2g))
 
 ---
 
