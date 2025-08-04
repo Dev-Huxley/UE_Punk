@@ -7,7 +7,7 @@
 ### 구현 과정
 - [🎥 프로토 구현](https://youtu.be/PL6mB2T5OkM)
 - [🎥 알파 구현](https://youtu.be/ODVAJgb1-oE)
-- [🎥 베타 구현]((https://youtu.be/PilWsNy3X2g))
+- [🎥 베타 구현](https://youtu.be/PilWsNy3X2g)
 
 ---
 
